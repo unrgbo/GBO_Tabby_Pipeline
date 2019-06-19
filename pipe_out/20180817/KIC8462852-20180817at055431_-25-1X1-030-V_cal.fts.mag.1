@@ -1,0 +1,95 @@
+#K IRAF       = NOAO/IRAFV2.16          version    %-23s     
+#K USER       = jakrin                  name       %-23s     
+#K HOST       = Js-MacBook-Air.local    computer   %-23s     
+#K DATE       = 2018-10-19              yyyy-mm-dd %-23s     
+#K TIME       = 08:57:32                hh:mm:ss   %-23s     
+#K PACKAGE    = apphot                  name       %-23s     
+#K TASK       = phot                    name       %-23s     
+#
+#K SCALE      = 1.                      units      %-23.7g   
+#K FWHMPSF    = 5.                      scaleunit  %-23.7g   
+#K EMISSION   = yes                     switch     %-23b     
+#K DATAMIN    = INDEF                   counts     %-23.7g   
+#K DATAMAX    = INDEF                   counts     %-23.7g   
+#K EXPOSURE   = EXPOSURE                keyword    %-23s     
+#K AIRMASS    = AIRMASS                 keyword    %-23s     
+#K FILTER     = FILTER                  keyword    %-23s     
+#K OBSTIME    = JD                      keyword    %-23s     
+#
+#K NOISE      = poisson                 model      %-23s     
+#K SIGMA      = INDEF                   counts     %-23.7g   
+#K GAIN       = ""                      keyword    %-23s     
+#K EPADU      = 1.30999                 e-/adu     %-23.7g   
+#K CCDREAD    = ""                      keyword    %-23s     
+#K READNOISE  = 9.                      e-         %-23.7g   
+#
+#K CALGORITHM = centroid                algorithm  %-23s     
+#K CBOXWIDTH  = 7.                      scaleunit  %-23.7g   
+#K CTHRESHOLD = 0.                      sigma      %-23.7g   
+#K MINSNRATIO = 1.                      number     %-23.7g   
+#K CMAXITER   = 10                      number     %-23d     
+#K MAXSHIFT   = 10.                     scaleunit  %-23.7g   
+#K CLEAN      = no                      switch     %-23b     
+#K RCLEAN     = 1.                      scaleunit  %-23.7g   
+#K RCLIP      = 2.                      scaleunit  %-23.7g   
+#K KCLEAN     = 3.                      sigma      %-23.7g   
+#
+#K SALGORITHM = centroid                algorithm  %-23s     
+#K ANNULUS    = 16.                     scaleunit  %-23.7g   
+#K DANNULUS   = 5.                      scaleunit  %-23.7g   
+#K SKYVALUE   = 0.                      counts     %-23.7g   
+#K KHIST      = 3.                      sigma      %-23.7g   
+#K BINSIZE    = 0.1                     sigma      %-23.7g   
+#K SMOOTH     = no                      switch     %-23b     
+#K SMAXITER   = 10                      number     %-23d     
+#K SLOCLIP    = 0.                      percent    %-23.7g   
+#K SHICLIP    = 0.                      percent    %-23.7g   
+#K SNREJECT   = 50                      number     %-23d     
+#K SLOREJECT  = 3.                      sigma      %-23.7g   
+#K SHIREJECT  = 3.                      sigma      %-23.7g   
+#K RGROW      = 0.                      scaleunit  %-23.7g   
+#
+#K WEIGHTING  = constant                model      %-23s     
+#K APERTURES  = 10                      scaleunit  %-23s     
+#K ZMAG       = 21.                     zeropoint  %-23.7g   
+#
+#N IMAGE               XINIT     YINIT     ID    COORDS                 LID    \
+#U imagename           pixels    pixels    ##    filename               ##     \
+#F %-23s               %-10.3f   %-10.3f   %-6d  %-23s                  %-6d    
+#
+#N XCENTER    YCENTER    XSHIFT  YSHIFT  XERR    YERR            CIER CERROR   \
+#U pixels     pixels     pixels  pixels  pixels  pixels          ##   cerrors  \
+#F %-14.3f    %-11.3f    %-8.3f  %-8.3f  %-8.3f  %-15.3f         %-5d %-9s      
+#
+#N MSKY           STDEV          SSKEW          NSKY   NSREJ     SIER SERROR   \
+#U counts         counts         counts         npix   npix      ##   serrors  \
+#F %-18.7g        %-15.7g        %-15.7g        %-7d   %-9d      %-5d %-9s      
+#
+#N ITIME          XAIRMASS       IFILTER                OTIME                  \
+#U timeunit       number         name                   timeunit               \
+#F %-18.7g        %-15.7g        %-23s                  %-23s                   
+#
+#N RAPERT   SUM           AREA       FLUX          MAG    MERR   PIER PERROR   \
+#U scale    counts        pixels     counts        mag    mag    ##   perrors  \
+#F %-12.2f  %-14.7g       %-11.7g    %-14.7g       %-7.3f %-6.3f %-5d %-9s      
+#
+KIC8462852-20180817at051930.268  2082.497  1     starlist.coo.1         1      \
+   1931.277   2082.270   1.009   -0.227  0.007   0.007          0    NoError   \
+   8.17638        8.167137       -3.019732      582    2        0    NoError   \
+   30.            1.004841       V                      2458347.7461921298     \
+   10.00    203328.5      314.5319   200756.7      11.436 0.002 0    NoError    
+KIC8462852-20180817at051718.703  2028.336  2     starlist.coo.1         2      \
+   1719.131   2027.992   0.427   -0.343  0.006   0.006          0    NoError   \
+   8.178294       7.997602       5.107345       576    4        0    NoError   \
+   30.            1.004841       V                      2458347.7461921298     \
+   10.00    234261.5      314.4676   231689.7      11.281 0.002 0    NoError    
+KIC8462852-20180817at052113.996  2300.106  3     starlist.coo.1         3      \
+   2114.203   2300.000   0.207   -0.106  0.006   0.006          0    NoError   \
+   9.347856       8.391028       2.599633       580    2        0    NoError   \
+   30.            1.004841       V                      2458347.7461921298     \
+   10.00    270838.9      314.2374   267901.5      11.123 0.002 0    NoError    
+KIC8462852-20180817at052060.206  2527.486  4     starlist.coo.1         4      \
+   2060.561   2526.979   0.355   -0.507  0.005   0.005          0    NoError   \
+   12.69007       8.570032       4.245852       578    3        0    NoError   \
+   30.            1.004841       V                      2458347.7461921298     \
+   10.00    378750.3      314.4804   374759.5      10.758 0.002 0    NoError    

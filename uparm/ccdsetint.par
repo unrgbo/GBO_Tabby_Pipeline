@@ -1,0 +1,6 @@
+instrument,s,a,"direct",,,"Instrument ID (type ? for a list)"
+site,s,h,"kpno",,,"Site ID"
+directory,s,h,"ccddb$",,,"Instrument directory"
+review,b,h,yes,,,"Review instrument parameters?"
+query,s,q,"direct",,,"Instrument ID (type q to quit)"
+mode,s,h,"ql",,,

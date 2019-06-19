@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18249eb8-8673-45d6-bd64-638fdbc7d9b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Tabby_pipe.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="853">
+                  <caret line="843" column="16" selection-start-line="843" selection-start-column="16" selection-end-line="843" selection-end-column="16" />
+                  <folding>
+                    <element signature="e#117#135#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Tabby_API.bash">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/log.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="320">
+                  <caret line="9511" selection-start-line="9511" selection-end-line="9511" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Plots.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1590">
+                  <caret line="109" column="30" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
+                  <folding>
+                    <element signature="e#0#18#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Tabby_API.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Plots.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="581">
+                  <caret line="123" column="53" selection-start-line="123" selection-start-column="53" selection-end-line="123" selection-end-column="53" />
+                  <folding>
+                    <element signature="e#0#18#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>obs</find>
+      <find>done</find>
+      <find>cal</find>
+      <find>dark</find>
+      <find>bias</find>
+      <find>dpath,opath,calpath,execpath</find>
+      <find>biasdate</find>
+      <find>dpath, opath, calpath, execpath, npath</find>
+      <find>home</find>
+      <find>get_date</find>
+      <find>rejected</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>done</replace>
+      <replace>cal</replace>
+      <replace>obs</replace>
+      <replace>calpath</replace>
+      <replace>bias</replace>
+      <replace>flat</replace>
+      <replace>dark</replace>
+      <replace>dpath,opath,calpath,execpath,npath</replace>
+      <replace>darkdat</replace>
+      <replace>darkdate</replace>
+      <replace>flatdate</replace>
+      <replace>dpath, opath, calpath, execpath, npath, backpath</replace>
+      <replace>home</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/Tabby_API.py" />
+        <option value="$PROJECT_DIR$/Plots.py" />
+        <option value="$PROJECT_DIR$/Tabby_pipe.py" />
+        <option value="$PROJECT_DIR$/Tabby_API.bash" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="23" />
+    <option name="width" value="2042" />
+    <option name="height" value="1333" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gbo_tabby_pipeline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gbo_tabby_pipeline" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gbo_tabby_pipeline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gbo_tabby_pipeline" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="gbo-tabby-pipeline" sdk-home="$USER_HOME$/anaconda2/envs/astro/bin/python" working-directory="$PROJECT_DIR$">
+        <option name="mySdkHome" value="$USER_HOME$/anaconda2/envs/astro/bin/python" />
+        <option name="myModuleName" value="gbo-tabby-pipeline" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Tabby_pipe">
+    <configuration name="Plots" type="PythonConfigurationType" factoryName="Python">
+      <module name="gbo-tabby-pipeline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/anaconda2/envs/astro/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Plots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tabby_API" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gbo-tabby-pipeline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda2/envs/astro/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/anaconda2/envs/astro/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tabby_API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tabby_pipe" type="PythonConfigurationType" factoryName="Python">
+      <module name="gbo-tabby-pipeline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tabby_pipe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="gbo-tabby-pipeline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda2/envs/astro/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/anaconda2/envs/astro/bin" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Plots" />
+      <item itemvalue="Python.Tabby_pipe" />
+      <item itemvalue="Python.Tabby_API" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Tabby_API" />
+        <item itemvalue="Python.Tabby_pipe" />
+        <item itemvalue="Python.Tabby_pipe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18249eb8-8673-45d6-bd64-638fdbc7d9b3" name="Default Changelist" comment="" />
+      <created>1545352036393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545352036393</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit from iMac. Added pipeout directory to repository">
+      <created>1545352359065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545352359065</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit from iMac. Added pipeout directory to repository">
+      <created>1546023799878</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546023799878</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated get paths for laptop and iMac use.  Updated todo comments.">
+      <created>1546024540027</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546024540027</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated get paths for laptop and iMac use.  Updated todo comments.">
+      <created>1546024742127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546024742127</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated get paths for laptop and iMac use.  Updated todo comments.">
+      <created>1546024829302</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546024829302</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added get_cal_frame() to determine closest calibration dates. Adjusted get_dates to find obsdates, donedates, and bias, dark, and flat dates">
+      <created>1546624183680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546624183680</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added find new dates function to find all new data and parse into data path for use">
+      <created>1546633664345</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1546633664345</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Working on setting up do_phot to remove any images that weren't platesolved and process photometry.  Currently looks like it's working but no output is being created in the pipeout director from iraf phot.">
+      <created>1546639010271</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1546639010271</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updating from iMac">
+      <created>1546834230275</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1546834230275</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated login.cl to have PycharmProjects folder as home.  Didn't fix issue">
+      <created>1547076183691</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547076183692</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Took out comment for pyraf now that it works on iMac. Adjusted nightphot to take average of reference stars rather than sum.">
+      <created>1547844016258</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547844016258</updated>
+    </task>
+    <task id="LOCAL-00012" summary="deleted all original pck files and ran night phot with changes.  Need to check if it's moving data and see what the low flux for z images is.">
+      <created>1547848329917</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1547848329917</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Changed night_phot to output bad data based on tabbymag &gt; 14.5.  Creates folder under rejected_data named high_mag_date.">
+      <created>1548184838424</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1548184838424</updated>
+    </task>
+    <task id="LOCAL-00014" summary="changed bad data folder name for non platesolved images in do_phot">
+      <created>1548186672507</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1548186672507</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commented out moving files if not platesolved.  Just skips doing the photometry now. added comment to fix get_cal_dates()">
+      <created>1548187267003</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1548187267003</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commented out moving files if not platesolved.  Just skips doing the photometry now. added comment to fix get_cal_dates()">
+      <created>1548187618371</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1548187618371</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Adjusted get_cal_dates to convert to JD then back so it returns the right dates">
+      <created>1548354508229</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1548354508229</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adjusted get_cal_dates to convert to JD then back so it returns the right dates">
+      <created>1548358248413</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1548358248413</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Replaced return with break in night_phot().  Adjusted make_plot() to use JD2458335 - JD245852 as a normalization period.">
+      <created>1548702406939</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1548702406940</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Created initial Tabby_API file to automate everything.  Adjusted get_paths() to included general backup directory.  Added backup() function to backup all new data, the current pipeline, which includes the pipe_out and an additional synced pipe_out to backup directory.">
+      <created>1549399703747</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1549399703747</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Need to adjust get cal dates timeframe logic to make sure there is at least one matching date for every band in every timeframe.">
+      <created>1549403348828</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1549403348828</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added older login.cl version">
+      <created>1549492136985</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1549492136985</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Adjusted get dates to test obsdates against bad dates from rejected data directory.  Seems to working to find new dates now">
+      <created>1549499607053</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1549499607053</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Deleted unused Thacher files from pipeline">
+      <created>1549550819110</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1549550819110</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Deleted unused Thacher files from pipeline">
+      <created>1549550988621</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1549550988621</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added tqdm">
+      <created>1549552184007</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1549552184007</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added tqdm">
+      <created>1550249491149</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1550249491149</updated>
+    </task>
+    <task id="LOCAL-00028" summary="minor updates and bug fixes">
+      <created>1550251594286</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1550251594286</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Making plot script">
+      <created>1550258887266</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1550258887266</updated>
+    </task>
+    <task id="LOCAL-00030" summary="adjusting apperance of plots">
+      <created>1550259557300</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1550259557300</updated>
+    </task>
+    <task id="LOCAL-00031" summary="adjusting apperance of plots">
+      <created>1550259825240</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1550259825240</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Added plot for linear fit">
+      <created>1550856199662</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1550856199662</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added bash script to activate environment for scheduling Tabby_API to run">
+      <created>1550860818988</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1550860818988</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Setup cron to run Tabby_API every morning at 7AM">
+      <created>1550871434434</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1550871434434</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Setup cron to run Tabby_API every morning at 7AM">
+      <created>1550871443367</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1550871443367</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Log Updates">
+      <created>1551200648208</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1551200648208</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Log Updates">
+      <created>1556546184937</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1556546184937</updated>
+    </task>
+    <task id="LOCAL-00038" summary="04/27 Update">
+      <created>1556550521081</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1556550521081</updated>
+    </task>
+    <task id="LOCAL-00039" summary="04/27 Update">
+      <created>1556551131965</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1556551131965</updated>
+    </task>
+    <task id="LOCAL-00040" summary="05/10 Update">
+      <created>1557496833941</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1557496833941</updated>
+    </task>
+    <task id="LOCAL-00041" summary="05/10 Update">
+      <created>1557496905956</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1557496905956</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Added routines from Thacherphot to avoid input">
+      <created>1557498935299</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1557498935299</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Updated Plot outputs and bash script for AAS and updated conda bash profile.">
+      <created>1558124776947</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1558124776947</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Moved Master cals to calpath">
+      <created>1558214002936</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1558214002937</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Updated Tabby_API.bash for using &quot;conda activate/deactivate&quot;">
+      <created>1560958680768</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1560958680768</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2555" height="1333" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.091949485" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962328" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962328" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49919742" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4979021" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5041958" side_tool="true" weight="0.29537672" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.4958042" visible="true" weight="0.25060436" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="deleted all original pck files and ran night phot with changes.  Need to check if it's moving data and see what the low flux for z images is." />
+    <MESSAGE value="Changed night_phot to output bad data based on tabbymag &gt; 14.5.  Creates folder under rejected_data named high_mag_date." />
+    <MESSAGE value="changed bad data folder name for non platesolved images in do_phot" />
+    <MESSAGE value="commented out moving files if not platesolved.  Just skips doing the photometry now. added comment to fix get_cal_dates()" />
+    <MESSAGE value="Adjusted get_cal_dates to convert to JD then back so it returns the right dates" />
+    <MESSAGE value="Replaced return with break in night_phot().  Adjusted make_plot() to use JD2458335 - JD245852 as a normalization period." />
+    <MESSAGE value="Created initial Tabby_API file to automate everything.  Adjusted get_paths() to included general backup directory.  Added backup() function to backup all new data, the current pipeline, which includes the pipe_out and an additional synced pipe_out to backup directory." />
+    <MESSAGE value="Need to adjust get cal dates timeframe logic to make sure there is at least one matching date for every band in every timeframe." />
+    <MESSAGE value="Added older login.cl version" />
+    <MESSAGE value="Adjusted get dates to test obsdates against bad dates from rejected data directory.  Seems to working to find new dates now" />
+    <MESSAGE value="Deleted unused Thacher files from pipeline" />
+    <MESSAGE value="added tqdm" />
+    <MESSAGE value="minor updates and bug fixes" />
+    <MESSAGE value="Making plot script" />
+    <MESSAGE value="adjusting apperance of plots" />
+    <MESSAGE value="Added plot for linear fit" />
+    <MESSAGE value="Added bash script to activate environment for scheduling Tabby_API to run" />
+    <MESSAGE value="Setup cron to run Tabby_API every morning at 7AM" />
+    <MESSAGE value="Log Updates" />
+    <MESSAGE value="04/27 Update" />
+    <MESSAGE value="05/10 Update" />
+    <MESSAGE value="Added routines from Thacherphot to avoid input" />
+    <MESSAGE value="Updated Plot outputs and bash script for AAS and updated conda bash profile." />
+    <MESSAGE value="Moved Master cals to calpath" />
+    <MESSAGE value="Updated Tabby_API.bash for using &quot;conda activate/deactivate&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Tabby_API.bash for using &quot;conda activate/deactivate&quot;" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/starlist.coo.1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/master_cal.py" />
+    <entry file="file://$USER_HOME$/anaconda2/envs/astro/lib/python2.7/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="2877" selection-start-line="2877" selection-end-line="2877" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/length.py" />
+    <entry file="file://$PROJECT_DIR$/login.cl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.cl.OLD" />
+    <entry file="file://$PROJECT_DIR$/thacherphotGBO.py" />
+    <entry file="file://$PROJECT_DIR$/Tabby_API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="9511" selection-start-line="9511" selection-end-line="9511" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="109" column="30" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tabby_API.bash">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tabby_pipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="853">
+          <caret line="843" column="16" selection-start-line="843" selection-start-column="16" selection-end-line="843" selection-end-column="16" />
+          <folding>
+            <element signature="e#117#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
